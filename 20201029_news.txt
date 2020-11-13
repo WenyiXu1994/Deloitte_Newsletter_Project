@@ -1,0 +1,352 @@
+Title: linkedins career explorer helps you identify new kinds of jobs based on the skills you have
+Source: techcrunch.com
+Link: https://techcrunch.com/2020/10/28/linkedins-career-explorer-helps-you-identify-new-kinds-of-jobs-based-on-the-skills-you-have/
+Tags: internet
+Summary: To meet some of that challenge, today, LinkedIn is launching a new Career Explorer tool to help people find new jobs. The Career Explorer tool is perhaps the most interesting of the new features. It notes that a food server and a customer service specialist (an in-demand job) have a 71% skills overlap. LinkedIn said that to date, around 13 million people have used the those tools to learn new skills for the most in-demand jobs. It helps keep that jobs business evolving at a time when it otherwise might feel somewhat stagnant.
+
+
+
+Title: marriott international announces partnership with grab in six southeast asian countries
+Source: techcrunch.com
+Link: https://techcrunch.com/2020/10/28/marriott-international-announces-partnership-with-grab-in-six-southeast-asian-countries/
+Tags: internet, 5G
+Summary: The COVID-19 pandemic has hit the hospitality industry especially hard, and hotels around the world are looking for ways to regain revenue. Today, Marriott International and Grab announced a partnership that will cover the hospitality giant¡¯s dining businesses in six Southeast Asian countries: Singapore, Indonesia, Malaysia, the Philippines, Vietnam and Thailand. Instead of room bookings, Marriott International deal with Grab focuses on about 600 restaurants and bars at its properties in the six Southeast Asian countries, which will start being added to GrabFood¡¯s on-demand delivery platform in November. The Marriott-Grab integration means the two companies will link their loyalty programs, so GrabRewards points can be converted to Marriott Bonvoy points, or vice versa. Other hospitality businesses that Grab already partners with include Booking.com and Klook.
+
+
+
+Title: ford will reveal its all electric transit van in november
+Source: techcrunch.com
+Link: https://techcrunch.com/2020/10/28/ford-will-reveal-its-all-electric-transit-van-in-november/
+Tags: internet, carelectronics
+Summary: Ford plans to reveal in November an all-electric version of its Ford Transit cargo van, the company said Wednesday as part of its broader third-quarter earnings report. The unveiling will showcase an electric van for all of the company¡¯s global addressable markets. The company has been talking about producing an electric Transit van for more than a year now. The electric Transit cargo van is part of Ford¡¯s more than $11.5 billion investment in electrification through 2022, and more specifically, a strategy to go after commercial customers. The Transit van and the Ford F-150 are the two most important, highest volume commercial vehicles in our industry, CEO Jim Farley said during an earnings call Wednesday with analysts.
+
+
+
+Title: section 230 barely rates a mention in senates hasty pre election flogging of tech ceos
+Source: techcrunch.com
+Link: https://techcrunch.com/2020/10/28/section-230-barely-rates-a-mention-in-senates-hasty-pre-election-flogging-of-tech-ceos/
+Tags: internet
+Summary: Section 230, a law which is under serious and justified consideration for revision, was barely a footnote. Why, they asked again and again, does this not constitute a double standard and a clear example of bias against Trump? (The CEOs said they don¡¯t ask, though Pichai admitted to Thune¡¯s obvious pleasure that the young, highly educated tech sector skews left.) Only Sen. Shelley Moore Capito (R-WV) didn¡¯t get the memo, and proffered constructive, informed questions relating to Section 230. As for the CEOs themselves, they hardly had a chance to get a word in edgewise except in their opening statements.
+
+
+
+Title: rocket lab successfully launches 10 earth observation satellites in 15th commercial mission
+Source: techcrunch.com
+Link: https://techcrunch.com/2020/10/28/rocket-lab-successfully-launches-10-earth-observation-satellites-in-15th-commercial-mission/
+Tags: internet, security
+Summary: New Zealand launch provider Rocket Lab has put its 15th commercial payload into space, delivering 10 Earth observation satellites each to their own orbit. The company is getting back into its stride after an upset in July dampened plans to set a record for launch turnaround time. The rideshare with Planet was organized by launch rideshare specialists Spaceflight. Everything proceeded nominally and the satellites were on their way and able to be reached about an hour after takeoff. Incidentally, all that and more will be on the table for discussion at TC Sessions: Space 2020 in December, where Rocket Lab founder and CEO Peter Beck will be joining us.
+
+
+
+Title: daily crunch apple search
+Source: techcrunch.com
+Link: https://techcrunch.com/2020/10/28/daily-crunch-apple-search/
+Tags: internet, security
+Summary: Apple might be building a Google competitor, Audible adds more podcasts and an ad measurement company raises $350 million. This is your Daily Crunch for October 28, 2020. The big story: Apple seems pretty interested in searchApple has a growing interest in search technology and might even be working on a product to compete with Google, according to The Financial Times. However, this doesn¡¯t necessarily mean Apple and Google will soon be going head-to-head in search ¡ª it could just be a sign that Apple¡¯s Siri voice assistant is getting more search queries. The Daily Crunch is TechCrunch¡¯s roundup of our biggest and most important stories.
+
+
+
+Title: we need new business models to burst old media filter bubbles
+Source: techcrunch.com
+Link: https://techcrunch.com/2020/10/28/we-need-new-business-models-to-burst-old-media-filter-bubbles/
+Tags: internet
+Summary: One of the contributors to this information split is the rise of site-wide paywalls, which divide access to information along socio-economic lines. Social media platforms ¡ª quickly replacing publishers as the ¡°front end¡± of news ¡ª act as an accelerant, using likes and reads to pattern-match content to readers. The message is clear: If people want to continue consuming news, they and media companies need to work together to develop a business model that can support it. This is where claims of ¡°fake news¡± originate: Dividing the world into free facts versus paywalled facts means we are increasingly talking past each other. The way we access information has changed; aggregators now sit at the top of the news funnel.
+
+
+
+Title: fiat chrysler plans to bring an ram electric pickup truck to market
+Source: techcrunch.com
+Link: https://techcrunch.com/2020/10/28/fiat-chrysler-plans-to-bring-an-ram-electric-pickup-truck-to-market/
+Tags: internet, consumer
+Summary: Fiat Chrysler Automobiles CEO Mike Manley confirmed Wednesday the automaker¡¯s Ram brand will bring an electric pickup truck to market. Rivian has said deliveries of its R1T electric pickup truck will begin in June 2021. Startup Lordstown Motors, which went public through its merger with special-purpose acquisition company DiamondPeak Holdings Corp., revealed a pickup truck prototype in June. GM revealed in October an electric GMC Hummer pickup truck that will be available for pre-ordering in 2021. The futuristic-looking electric Tesla Cybertruck, which was unveiled in November at the Tesla Design Center in Hawthorne, California, isn¡¯t expected to go into production until late 2022.
+
+
+
+Title: us online holiday sales to reach 189b this year up 33 from 2019
+Source: techcrunch.com
+Link: https://techcrunch.com/2020/10/28/us-online-holiday-sales-to-reach-189b-this-year-up-33-from-2019/
+Tags: internet, security
+Summary: The accelerated shift to e-commerce due to the pandemic will have a significant impact on U.S. online holiday sales, according to a new forecast from Adobe Analytics. Adobe Analytics predicts that U.S. online sales for the months of November and December 2020 will reach $189 billion, representing a 33% year-over-year increase and setting a new record. Due to the pandemic, Adobe Analytics expects 9% of all holiday customers to be net new online shoppers. In previous election years, online sales were impacted after the outcome was known. The data used to make these predictions is sourced from Adobe Analytics, which today analyzes one trillion visits to U.S. retail sites.
+
+
+
+Title: true social app privacy exposed data
+Source: techcrunch.com
+Link: https://techcrunch.com/2020/10/28/true-social-app-privacy-exposed-data/
+Tags: internet, security
+Summary: True, the social networking app that promises to ¡®protect your privacy,¡¯ exposed private messages and user locationsTrue bills itself as the social networking app that will ¡°protect your privacy.¡± But a security lapse left one of its servers exposed ¡ª and spilling private user data to the internet for anyone to find. But a dashboard for one of the app¡¯s databases was exposed to the internet without a password, allowing anyone to read, browse and search the database ¡ª including private user data. Mossab Hussein, chief security officer at Dubai-based cybersecurity firm SpiderSilk, found the exposed dashboard and provided details to TechCrunch. The dashboard also exposed the email and phone contacts uploaded by the user, which True uses to match with known friends in the app. Hussein said that the dashboard was also leaking account access tokens, which could be used to hack into and hijack any user¡¯s account.
+
+
+
+Title: dear sophie any upgrade options for e 2 visa holders interested in changing jobs
+Source: techcrunch.com
+Link: https://techcrunch.com/2020/10/28/dear-sophie-any-upgrade-options-for-e-2-visa-holders-interested-in-changing-jobs/
+Tags: internet, 5G
+Summary: Here¡¯s another edition of ¡°Dear Sophie,¡± the advice column from a practicing attorney that answers immigration questions about working at technology companies. Dear Sophie:I¡¯m currently here in the U.S. on an E-2 visa. Is there a feasible process to upgrade my E-2 visa to another type, like an L? Both the L-1A visa and the L-1B visa enable multinational companies to transfer a manager, executive or specialized knowledge employee from an office abroad to a U.S. office ¡ª or to open an office in the U.S. ¡ª from an office abroad. The L-1A visa for intracompany executive or manager transferees is similar to the E-2 visa in that both allow the visa holder to come to the U.S. to set up a new office for the sponsoring company.
+
+
+
+Title: onering
+Source: techcrunch.com
+Link: https://techcrunch.com/2020/10/28/onering/
+Tags: internet, 5G
+Summary: Apple is now showing its own search results and linking directly to websites when users type queries from its home screen in iOS 14. And the search volume being up on Apple¡¯s crawler is something that Jon Henshaw of Coywolf had noted back in August. Making Siri a one-stop shop could inoculate Apple in the scenario where they are forced to enable a search provider choice in the iOS onboarding flow by regulation. It won¡¯t do anything to help Google though, which pays Apple billions because iOS users are worth way more than any other mobile web users to its business. Perhaps another reason why making Siri the search equivalent of an overtalker is the strong play for Apple.
+
+
+
+Title: joe rogan alex jones and spotifys illusion of neutrality
+Source: techcrunch.com
+Link: https://techcrunch.com/2020/10/28/joe-rogan-alex-jones-and-spotifys-illusion-of-neutrality/
+Tags: internet, 5G
+Summary: Now people are in an uproar of who, essentially, gets a platform on its platform. Rogan made a few attempts at refuting or standing up some of the stories and claims that they covered. ¡°I was just trying to give you a Gestalt analysis,¡± Jones growled in response¡­ He then went into a defense of Jared Kushner. Letting Alex Jones spread anti-vaxxer conspiracies during a pandemic is indefensible. One interesting angle to ponder is whether other high-profile hosts might bail if they feel strongly about Spotify¡¯s editorial position.
+
+
+
+Title: app management startup appfollow raises 5m series a round led by nauta capital
+Source: techcrunch.com
+Link: https://techcrunch.com/2020/10/28/app-management-startup-appfollow-raises-5m-series-a-round-led-by-nauta-capital/
+Tags: internet
+Summary: AppFollow, an app management startup, has raised a $5 million Series A round led by Barcelona¡¯s Nauta Capital, alongside existing investors Vendep Capital and RTP Global participating. The Helsinki-headquartered company says it benefitted during the pandemic and even in April 2020 as the desire for automation and apps exploded. It says it now has 70,000 clients on its platform globally, including McDonald¡¯s, Disney, Expedia, PicsArt, Flo, Jam City and Discord. CEO Anatoly Sharifulin said in a statement: ¡°AppFollow helps teams understand sentiment, both for your users and competitor¡¯s, figure out how your potential customers search for apps and use this knowledge to make your app more visible and, of course, follow on your KPIs like downloads and revenues to be sure that all is under control.¡±Eugene Kruglov of Nauta Capital said: ¡°We are extremely delighted to partner with Nauta Capital on this round. And having both of current investors and as well some of our customers to participate in the round proves that we are on the right direction to become the market standard for effective app management.¡±The company, which employs 65 people across nine countries, all working remotely, will use the investment to strengthen its presence in the U.S. and Europe, hire VP-level executives in sales and marketing, and diversify their platform.
+
+
+
+Title: outrider raises 65 million to bring its autonomous tech to distribution yards
+Source: techcrunch.com
+Link: https://techcrunch.com/2020/10/28/outrider-raises-65-million-to-bring-its-autonomous-tech-to-distribution-yards/
+Tags: internet
+Summary: The company¡¯s aim to automate distribution yards doesn¡¯t get the same kind of attention as the more public-facing robotaxis that other companies are pursuing. Distribution yards are where goods make the transition from long-haul trucks to warehouses, and eventually the consumer. These hubs of economic activity rely on humans to make repetitive, manual tasks using diesel-powered yard trucks. There are some 400,000 distribution yards located in the United States, a number that provides an idea of the potential size of the opportunity. Andrew Smith, the company¡¯s founder and CEO, says disruptions caused by COVID-19 has highlighted the need for this kind of automated distribution yard technology.
+
+
+
+Title: qualtrics ceo ryan smith is buying majority stake in the utah jazz for 1 6b
+Source: techcrunch.com
+Link: https://techcrunch.com/2020/10/28/qualtrics-ceo-ryan-smith-is-buying-majority-stake-in-the-utah-jazz-for-1-6b/
+Tags: internet, 5G
+Summary: The Utah Jazz, an NBA basketball team based in Salt Lake City, announced today that Qualtrics CEO and co-founder Ryan Smith was buying a majority stake in the team, along with other properties. He sold Qualtrics, which is based in Provo, Utah, in 2018 to SAP for $8 billion just before the startup was about to go public. In addition to The Jazz, he¡¯s also getting Vivint Smart Home Arena, the National Basketball Association (NBA) G League team Salt Lake City Stars and management of the Triple-A baseball affiliate Salt Lake Bees. Smith is buying the properties from the Miller family, who have run them for more than three decades. The Utah Jazz, the state of Utah, and its capital city are the beneficiaries of the Millers¡¯ tremendous love, generosity and investment.
+
+
+
+Title: apple eyes the tiktok generation with an updated version of clips
+Source: techcrunch.com
+Link: https://techcrunch.com/2020/10/28/apple-eyes-the-tiktok-generation-with-an-updated-version-of-clips/
+Tags: internet, security
+Summary: Apple is today rolling out an update to its video creation app, Clips, which brings much-needed support for vertical videos, allowing for sharing to TikTok and the ¡°Stories¡± feature in other social apps. Apple, in fact, says that support for vertical video had become its No. On iPad, Clips users can also interact with the app when their iPad is in a case, like Magic Keyboard for iPad and others. With its expanded focus on vertical video, Clips has the potential to reach a much broader audience. But Clips, until now, couldn¡¯t compete because it didn¡¯t include vertical video support at all.
+
+
+
+Title: robust ai raises a 15m series a to improve problem solving for collaborative robots
+Source: techcrunch.com
+Link: https://techcrunch.com/2020/10/28/robust-ai-raises-a-15m-series-a-to-improve-problem-solving-for-collaborative-robots/
+Tags: internet, AI
+Summary: Robust.AI today announced that it has raised a $15 million Series A, led by Jazz Venture Partners. Existing partners Playground Global, Liquid2, Fontinalis, Jaan Tallinn and Mark Leslie also participated in the round, which brings the Bay Area-based robotics AI startup¡¯s funding up to $22.5 million. CEO Gary Marcus, meanwhile, is also the co-founder of Geometric Intelligence, which was acquired by Uber, back in 2016. At the core of Robust.AI are plans to build ¡°the world¡¯s first industrial-grade cognitive engine for robots,¡± essentially providing collaborative robots sufficient problem-solving capacity to effectively work alongside humans. ¡°Finding market fit is as important in robots and AI systems as any other product,¡± Brooks said in a statement.
+
+
+
+Title: microsoft announces its first azure data center region in taiwan
+Source: techcrunch.com
+Link: https://techcrunch.com/2020/10/28/microsoft-announces-its-first-azure-data-center-region-in-taiwan/
+Tags: internet, security
+Summary: After announcing its latest data center region in Austria earlier this month and an expansion of its footprint in Brazil, Microsoft today unveiled its plans to open a new region in Taiwan. This new region will augment its existing presence in East Asia, where the company already runs data centers in China (operated by 21Vianet), Hong Kong, Japan and Korea. ¡°Our new investment in Taiwan reflects our faith in its strong heritage of hardware and software integration,¡± said Jean-Phillippe Courtois, executive vice president and president, Microsoft Global Sales, Marketing and Operations. ¡°With Taiwan¡¯s expertise in hardware manufacturing and the new data center region, we look forward to greater transformation, advancing what is possible with 5G, AI and IoT capabilities spanning the intelligent cloud and intelligent edge.¡±The new region will offer access to the core Microsoft Azure services. Like virtually all of Microsoft¡¯s new data center region, this one will also offer multiple availability zones.
+
+
+
+Title: hebbia wants to make ctrl f or command f actually useful through better ai
+Source: techcrunch.com
+Link: https://techcrunch.com/2020/10/28/hebbia-wants-to-make-ctrl-f-or-command-f-actually-useful-through-better-ai/
+Tags: AI
+Summary: But what is the next wave of functionality that this AI infrastructure can empower? ¡°The idea is that Hebbia is building these productivity tools for thought that augment the way you do work. They¡¯re things that actually control the information input and outputs that you have to deal with every day,¡± Sivulka said. It¡¯s AI, and pretty beta AI at that, so of course, your experience can and will be inconsistent right now. With Ctrl-F, ¡°this is a baseline technology, [we¡¯re] just scratching the surface of what we can do with this.¡±
+
+
+
+Title: Facebook, Twitter and YouTube's business models could get crushed if a law called Section 230 gets repealed. Trump and Congress are rushing to do exactly that.
+Source: https://www.businessinsider.com/sai
+Link: https://www.businessinsider.com/congress-section-230-repeal-crush-social-media-facebook-twitter-google-2020-10
+Tags: internet, AI
+Summary: The law protects social media companies from being held liable for the content of users' posts. But critics of the law say it doesn't adequately hold social media companies accountable for harmful content like misinformation or hate speech. Some Republican lawmakers have also argued that social media companies embolden anti-conservative bias and have used repealing Section 230 as a threat. And days earlier, Supreme Court Justice Clarence Thomas argued that courts should reinterpret Section 230 to give tech companies fewer protections. If Section 230 is repealed, tech companies would have to weigh whether to continue to host open forums, or to pursue less risky models.
+
+
+
+Title: Apple is quietly building a search rival to Google ahead of the DOJ's landmark antitrust case, according to a report
+Source: https://www.businessinsider.com/sai
+Link: https://www.businessinsider.com/apple-now-shows-its-own-search-results-threatening-google-ios14-2020-10
+Tags: internet, 5G
+Summary: Google has been the iPhone's default search engine for more than 10 years. But Apple's partnership with Google is under threat from the US Department of Justice, whose landmark antitrust case aims to break Google's grip on search engines. Apple is quietly building a rival to Google's ubiquitous search engine, the Financial Times reported Wednesday, just as the US Department of Justice's (DOJ) landmark antitrust suit aims to break Google's grip on worldwide search queries. Clicking on links takes users directly to the website in question, rather than through another search engine. Should the DOJ block future deals, Apple would need an alternative search engine for its phones.
+
+
+
+Title: We got an exclusive look at the deck market research disruptor Streetbees used to raise $40 million from Lakestar
+Source: https://www.businessinsider.com/sai
+Link: https://www.businessinsider.com/pitch-deck-streetbees-raises-40-million-disrupt-market-research-2020-10
+Tags: internet
+Summary: Streetbees, a startup that aims to disrupt market research, has raised 30 million ($40 million) in Series B funding. Streetbees compiles millions of users' data entries to find patterns in their offline behaviour to help its clients. Streetbees, a startup aiming to disrupt market research, has raised 30 million ($40 million) in a Series B funding round. Streetbees claims that, much like Google indexing the internet, much work is still needed to do the same with offline life. The funding round was led by Lakestar with participation from existing investors Latitude, Atomico, GMG Ventures and Octopus.
+
+
+
+Title: how tiktoks unique mix of social and broadcast media techniques sets it apart
+Source: venturebeat.com
+Link: https://venturebeat.com/2020/10/28/how-tiktoks-unique-mix-of-social-and-broadcast-media-techniques-sets-it-apart/
+Tags: internet, 5G
+Summary: TikTok¡¯s strange, unprecedented twists and turns take place against the backdrop of significant changes to social media itself, as it evolves from a medium for sharing into a one-to-many broadcast medium for the digital age. TikTok¡¯s efforts to monetize its platform can tell us a lot about the future of not only the social media business, but also of TV and one-to-many media in general. TikTok wins a seat at the tableSome of the first major social media platforms, including Facebook, Twitter, Snapchat, Instagram, and LinkedIn, were built to help users create and share media within finite circuits of followers. Such real-life social connections, as the ¡°social media¡± moniker suggests, were the core of these platforms¡¯ user experiences, distribution frameworks, and monetization models. If it can¡¯t, it will end up in in the social media graveyard alongside MySpace, Friendster, and Vine.
+
+
+
+Title: googles transporter networks learn to stack blocks and assemble mouthwash kits from as few examples
+Source: venturebeat.com
+Link: https://venturebeat.com/2020/10/28/googles-transporter-networks-learn-to-stack-blocks-and-assemble-mouthwash-kits-from-as-few-examples/
+Tags: AI, 5G
+Summary: During experiments, the researchers say their Transporter Networks achieved ¡°superior¡± efficiency on a number of tasks including stacking a pyramid of blocks, assembling kits, manipulating ropes, and pushing piles of small objects. The Google study coauthors say Transporter Networks don¡¯t require any prior 3D model, pose, or class category knowledge of the objects to be manipulated, instead relying only on information contained within partial depth camera data. The researchers trained Transporter Networks on datasets of demonstrations ranging in number from one demonstration to 1,000 per task. Then they validated the Transporter Networks on kit assembly tasks using real UR5e robots with suction grippers and cameras including an Azure Kinect. The Transporter Networks, which were trained with 11,633 pick-and-place actions total on all tasks from 13 human operators, achieved 98.9% success in assembling kits of bottled mouthwashes.
+
+
+
+Title: amd reveals radeon rx 6900 xt 6800 xt and 6800 with rage power
+Source: venturebeat.com
+Link: https://venturebeat.com/2020/10/28/amd-reveals-radeon-rx-6900-xt-6800-xt-and-6800-with-rage-power/
+Tags: internet, 5G
+Summary: The company revealed the Radeon RX 6900 XT, RX 6800 XT, and RX 6800 GPUs today. The RX 6800XT and RX 6800 both launch November 18. But questions remain about how AMD cards are going to handle next-generation graphics like real-time ray tracing and the upscaling techniques required to make ray tracing viable. But on Nvidia cards, RTX also comes with features like deep learning supersampling (DLSS), which is an AI-powered upscaling technique. The concern here is that we know that ray tracing and DLSS work on Nvidia RTX cards.
+
+
+
+Title: nexo doubles earn on crypto interest rates
+Source: venturebeat.com
+Link: https://venturebeat.com/2020/10/28/nexo-doubles-earn-on-crypto-interest-rates/
+Tags: internet, 5G
+Summary: View the full release here: https://www.businesswire.com/news/home/20201028005868/en/Nexo¡¯s newly released Earn UP and Earn in NEXO features deliver interest rates of up to 12% APY to the platform¡¯s clients. (Photo: Business Wire)The substantial hike constitutes a 1% bump in savings interest rates on all supported cryptocurrencies, bringing rates for these assets up to 6% APY. The introduction of Earn in NEXO offers an extra 2% APY for savings in all digital and fiat assets the Nexo platform carries, respectively bringing maximum interest rates for the Earn suite to 8% and 12% for cryptocurrencies, and fiat and stablecoins. Previously, Nexo interest rates ranged between 4% and 5% on cryptocurrencies, and 8% to 10% on fiat and stablecoins. The launch of Nexonomics also comes hot on the heels of several upgrades to Nexo¡¯s Earn on Crypto & Fiat suite, including the decision to introduce a PAX Gold earn offering to satisfy the community¡¯s interest in tokenized gold.
+
+
+
+Title: study identifies thousands of twitter bots amplifying conspiracy theories ahead of the u s elections
+Source: venturebeat.com
+Link: https://venturebeat.com/2020/10/28/study-identifies-thousands-of-twitter-bots-amplifying-conspiracy-theories-ahead-of-the-u-s-elections/
+Tags: internet, security
+Summary: A new study from researchers at University of Southern California finds that bots are influencing discussions around the U.S. elections on Twitter. Bots almost exclusively retweeted original posts by human users on Twitter, the coauthors of the report concluded. In turn, many humans retweeted bots¡¯ messages that aligned with their political leanings. About 13% of all users sharing conspiracy narratives were suspected bots, including several from Ghana and Nigeria, which launched information campaigns to target left-leaning users about the Black Lives Matter movement. Saudi Arabia and Turkey also had high engagement with right-leaning users, while Russia and China mostly targeted left-leaning fringe groups and conservative groups.
+
+
+
+Title: releviate therapeutics inks exclusive license for human monoclonal antibodies for chronic pain indications
+Source: venturebeat.com
+Link: https://venturebeat.com/2020/10/28/releviate-therapeutics-inks-exclusive-license-for-human-monoclonal-antibodies-for-chronic-pain-indications/
+Tags: internet, 5G
+Summary: Extensive recent studies implicate MMP-9, MMP-14 and MMP-2 as causes of chronic pain. Releviate Therapeutics is using the exclusively licensed RLVT-9-01 and RLVT-14-02 molecules to address unmet needs in chronic pain. ¡°Releviate Therapeutics is well positioned with the expertise and capabilities to deliver the world¡¯s first new class of chronic pain treatment strategies in over 200 years,¡± says Sergey Sikora, Releviate Therapeutics¡¯ founder and bio-pharmaceutical industry veteran. Unlike traditional chronic pain medication strategies, Releviate Therapeutics directly targets pain with antibodies whose development is rooted in actual pain pathology and in directly inactivating pain pathways. Releviate and its logo are trademarks of Releviate Therapeutics in the U.S. and other countries.
+
+
+
+Title: decentralized identity the key to the digital era
+Source: venturebeat.com
+Link: https://venturebeat.com/2020/10/28/decentralized-identity-the-key-to-the-digital-era/
+Tags: internet, 5G
+Summary: Building decentralized identity on solid foundationsDecentralized identity systems are fundamentally different from current approaches. One core enabler for building a decentralized identity system is standards. Its mission is to develop the components of an open, standards-based, decentralized identity ecosystem for people, organizations, apps, and devices. Elsewhere, COVID has been the catalyst for early implementations of blockchain-based decentralized identity management systems. So you might not start deploying a decentralized identity management system today, but it won¡¯t do any harm to start planning.
+
+
+
+Title: enso security raises 6m to eliminate application security chaos and bring scalability to appsec management
+Source: venturebeat.com
+Link: https://venturebeat.com/2020/10/28/enso-security-raises-6m-to-eliminate-application-security-chaos-and-bring-scalability-to-appsec-management/
+Tags: security
+Summary: ¡°We¡¯ve lived the chaos of enterprise application security firsthand, taking inventory blind and clashing with production deadlines. The Enso Security platform is currently in limited availability to qualified customers. About EnsoEnso is the first Application Security Posture Management (ASPM) solution, helping security teams everywhere eliminate their AppSec chaos with application discovery, classification and management. Founded by application security experts, Enso easily deploys into enterprise environments to create an actionable, unified inventory of all application assets, their owners, security posture and associated risk. With Enso security, any AppSec team can build a simplified, agile and scalable application security program.
+
+
+
+Title: shotcall raises 2 2 million to build gaming community hubs
+Source: venturebeat.com
+Link: https://venturebeat.com/2020/10/28/shotcall-raises-2-2-million-to-build-gaming-community-hubs/
+Tags: internet
+Summary: Shotcall has raised $2.2 million in a seed funding round to build a platform to form gaming communities and marketplaces for fans. ¡°Shotcall is the destination for fans to play games with their favorite people,¡± said Gentle in an interview with GamesBeat. Social gaming has exploded this year, which isn't surprising given how many people have been stuck at home due to the pandemic. Already a hub for the gaming community, the Shotcall platform is filled with upcoming events for fans to register for. There is no initial cost associated with accessing the Shotcall platform and marketplace.
+
+
+
+Title: vibenomics closes 6 5m in funding to fuel the launch of additional national networks
+Source: venturebeat.com
+Link: https://venturebeat.com/2020/10/28/vibenomics-closes-6-5m-in-funding-to-fuel-the-launch-of-additional-national-networks/
+Tags: internet, 5G
+Summary: The company enables brands to talk to shoppers directly at the point-of-sale inside thousands of retail locations through Audio OOH advertising, impacting immediate purchase decisions. ¡°This funding is a testament to the continued belief of our investors in the future of Vibenomics and what we¡¯re building,¡± said Brent Oakley, Vibenomics CEO. Vibenomics recently partnered with the leading global provider of software for digital-out-of-home (DOOH), Vistar Media and presented at the 2020 IAB NewFronts digital event, where the Vibenomics Advertising Market was introduced to some of the world¡¯s largest brands. Vibenomics also teamed up with Kroger, the No.1 pure-play grocery retailer, to improve the customer buying experience in 2,300+ Kroger stores. In September, they expanded programmatic offerings with the launch of Open Exchange and Private Marketplace (PMP) deals via Vistar Media.
+
+
+
+Title: alphabets loon balloon business claims stratospheric flight record of 312 days
+Source: venturebeat.com
+Link: https://venturebeat.com/2020/10/28/alphabets-loon-balloon-business-claims-stratospheric-flight-record-of-312-days/
+Tags: internet
+Summary: Alphabet¡¯s high-flying Loon subsidiary is laying claim to a new flight duration record for its internet-beaming stratospheric balloons. The company said it has beaten its own record of 223 days, which it announced in July 2020, by nearly three months. Loon balloons travel in the stratosphere at an average of 20km above the Earth, where the varying conditions affect the direction and speed of the balloons. One of its balloons launched from Puerto Rico in May 2019 and traveled to Peru, where it was tested as part of a pilot service for a three-month period. It then traveled about 215,000km around the globe, eventually landing in Baja, Mexico in March ¡ª 312 days after it first left the ground.
+
+
+
+Title: gen g announces search for all women team for valorant
+Source: venturebeat.com
+Link: https://venturebeat.com/2020/10/28/gen-g-announces-search-for-all-women-team-for-valorant/
+Tags: internet, 5G
+Summary: Gen.G and Bumble have announced a search for an all-women Valorant esports team. Gen.G, an esports organization with many teams, has an existing partnership with Bumble, which sponsored the first female team, the all-women Fortnite esports team. It follows the announcement from another esports organization, Cloud9, which announced on Sunday it had acquired an all-women Valorant team. ¡°We had a lot of experience putting together our Fortnite team,¡± Hur said. We thought that it was a really exciting opportunity while the game is still young and the player base is still growing.¡±The search for the new team will integrate Madison ¡°Maddiesuun¡± Mann, who is a key player on the Team Bumble Fortnite team.
+
+
+
+Title: capacity raises 11 million to automate enterprise help desk tasks
+Source: venturebeat.com
+Link: https://venturebeat.com/2020/10/28/capacity-raises-11-million-to-automate-enterprise-help-desk-tasks/
+Tags: internet
+Summary: Capacity offers businesses an AI-driven platform that uses organizational knowledge to automate various processes. Capacity¡¯s software learns from knowledge and interactions within a business to build a knowledge base that automates help desks, workflows, and decisions. Employees can reply to, forward, or dismiss any questions Capacity can¡¯t automatically answer via a live chat or a support ticket. Meanwhile, Capacity¡¯s Workflows product leverages robotic process automation to organize operations. Workflows are built on a series of human-powered and automated tasks and tap Capacity¡¯s third-party app store for extended functionality.
+
+
+
+Title: tilt five raises 7 5 million for ar goggles for tabletop board games
+Source: venturebeat.com
+Link: https://venturebeat.com/2020/10/28/tilt-five-raises-7-5-million-for-ar-goggles-for-tabletop-board-games/
+Tags: internet
+Summary: Tilt Five has raised $7.5 million to build its augmented reality glasses, game board, and wand controller for playing tabletop board games in AR. The funding is an endorsement for Tilt Five CEO Jeri Ellsworth as she applies her years of work on AR goggles to tabletop games. Then Valve opted to focus on virtual reality and spun the technology out to Technical Illusions, a company Ellsworth and Smith started. By combining AR glasses, a game board, and a wand controller, Tilt Five wants to engage players in tabletop and video games in shared 3D holographic environments. Tilt Five XE kits include a pair of AR glasses, a game board, and a wand.
+
+
+
+Title: ea teams up with learfield img college to bring madden esports to 250 campuses
+Source: venturebeat.com
+Link: https://venturebeat.com/2020/10/28/ea-teams-up-with-learfield-img-college-to-bring-madden-esports-to-250-campuses/
+Tags: internet, 5G
+Summary: Electronic Arts has teamed up with university licensing firm Learfield IMG College to launch Level Next, an intercollegiate esports league that could enable as many as 2,500 colleges to participate in Madden NFL¡¯s competitive gaming scene. ¡°We¡¯re creating the largest national collegiate esports league and centralizing the competition for students across the United States,¡± EA senior VP Todd Sitrin told GamesBeat in an interview. ¡°There have been many attempts to bring esports to college campuses. Today, we aren¡¯t really seeing anybody being successful in the type of competition that we see among colleges in traditional sports.¡±Learfield IMG College was formed in 2018 with the merger of Learfield and IMG College. Learfield IMG College has its own broadcast network, and the matches will also air on Twitch.
+
+
+
+Title: adobe 86 of survey respondents say voice technology could make events more sanitary
+Source: venturebeat.com
+Link: https://venturebeat.com/2020/10/28/adobe-86-of-survey-respondents-say-voice-technology-could-make-events-more-sanitary/
+Tags: internet, AI
+Summary: People are embracing voice technology for more than just contactless interactions, but they¡¯re also confused about how to use it. One in three voice users (31%) counts benefits like not needing to touch high-traffic surfaces as an upside of voice technology. Separately, 86% of people said voice technology could make visiting businesses or attending events more sanitary. A higher percentage (62%) feel awkward using voice technology when other people are present. According to a new report from Juniper Research, consumers will interact with voice assistants on 8.4 billion devices by 2024.
+
+
+
+Title: canvass analytics closes 6 5 million series a funding round led by yamaha motor ventures
+Source: venturebeat.com
+Link: https://venturebeat.com/2020/10/28/canvass-analytics-closes-6-5-million-series-a-funding-round-led-by-yamaha-motor-ventures/
+Tags: internet
+Summary: SILICON VALLEY, Calif.¨C(BUSINESS WIRE)¨COctober 28, 2020¨CYamaha Motor Ventures & Laboratory Silicon Valley, Inc. (Yamaha Motor Ventures), the strategic business development and investment arm of Yamaha Motor Co., Ltd. (Tokyo: 7272), today announced it led a USD$6.5 million funding round for Canvass Analytics (Canvass), a global leader in industrial Artificial Intelligence (AI) advanced analytics. Leveraging the $100 million Yamaha Motor Exploratory Fund, the Canvass investment represents Yamaha Motor Ventures¡¯ strategic focus on innovative technologies that work to solve global, societal challenges including increasing efficiency to reduce environmental impact. The Series A funding round was led by Yamaha Motor Ventures with renewed participation from existing investors Real Ventures, BDC, EDC, and Viaduct Ventures, bringing the total investment in Canvass to $13 million. ¡°Yamaha Motor Ventures has a passion for identifying advanced technologies that are backed by ambitious teams. About Yamaha Motor Ventures & Laboratory Silicon ValleyYamaha Motor Ventures & Laboratory Silicon Valley, Inc. (Yamaha Motor Ventures) is a wholly-owned subsidiary of Yamaha Motor Co., Ltd. (YMC).
+
+
+
+Title: scopely raises 340 million at 3 3 billion valuationas mobile games thrive during pandemic
+Source: venturebeat.com
+Link: https://venturebeat.com/2020/10/28/scopely-raises-340-million-at-3-3-billion-valuationas-mobile-games-thrive-during-pandemic/
+Tags: internet
+Summary: Scopely, the publisher of games like Star Trek: Fleet Command and Marvel Strike Force, has raised $340 million to continue its mobile growth plans as players embrace games during the pandemic. It has a diversified portfolio of well-grossing games, and it will use the funds to fuel its ambition of becoming the top mobile games company in the West. And then, on the M&A side, we made a large acquisition, back in February with the acquisition of FoxNext Games,¡± Ferreira said. Scopely also has a centralized tech platform and user acquisition teams that help its games get traction. Scopely isn¡¯t launching any major games this year, but it will likely have big launches in 2021 and 2022, Ferreira said.
+
+
+
+Title: how hr managers are helping productivity safety and more in a pandemic vb live
+Source: venturebeat.com
+Link: https://venturebeat.com/2020/10/28/how-hr-managers-are-helping-productivity-safety-and-more-in-a-pandemic-vb-live/
+Tags: internet, selfdriving
+Summary: Presented by TriNetIn a pandemic-impacted world, HR managers need to embrace new processes and policies to help ensure their business is compliant and employees are safe and productive. To learn how organizations can pivot to ensure business and employee success, catch up on this VB Live event! ¡°Now, more than ever, HR managers need to be strategic and intentional about their planning and their processes,¡± Starnes says. HR managers are advocates for both employees and the organization, she adds, so when addressing fairness, HR needs to look through the lens of both employee and organization at that fundamental level. You¡¯ll learn about:The 4 P¡¯s: Planning, Productivity, Pivoting, and PolicyGetting HR systems in placeCommunicating and enforcing new HR rulesImpacts on compensation and benefitsSpeakers:
+
+
+
+Title: outrider raises 65 million to make warehouses and distribution centers autonomous
+Source: venturebeat.com
+Link: https://venturebeat.com/2020/10/28/outrider-raises-65-million-to-make-warehouses-and-distribution-centers-autonomous/
+Tags: internet
+Summary: Autonomous logistics startup Outrider today closed a $65 million funding round led by Koch Disruptive Technologies. The company¡¯s platform handles autonomous distribution yard operations at logistics hubs, such as distribution centers, warehouses, and rail yards. ¡°Automation and electrification directly address fluctuations in the supply chain from seasonality to global pandemics. With COVID-19-related supply chain disruptions, supply chain leaders have even more urgency to make automation investments,¡± Smith told VentureBeat via email. The round followed $53 million in seed and series A rounds completed earlier this year, bringing the company¡¯s total raised to $118 million.
+
+
+
+Title: mercedes targets evolution rather than revolution in self driving car push
+Source: venturebeat.com
+Link: https://venturebeat.com/2020/10/28/mercedes-targets-evolution-rather-than-revolution-in-self-driving-car-push/
+Tags: internet, selfdriving
+Summary: Advanced driver assistance systems can provide steering, braking, and acceleration support under limited circumstances, generally on highways. Its engineers need to pass an eligibility exam to become test drivers, and another exam for testing automated driving systems, the carmaker said. The new Tesla system forces customers to take responsibility for any crash. Logical next stepMercedes-Benz started using camera-based systems in 2009, offering traffic light recognition and lane-keeping assistance systems. Although Mercedes engineers are aware of Tesla¡¯s more aggressive approach to marketing their systems, they appear unruffled.
+
+
+
