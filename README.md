@@ -14,4 +14,4 @@ keyword_matching.ipynb:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. This file is also used to generate daily newsletter content.  (the output file is '20201029_news.txt')  
                                              
     
-Note: Part of the codes are written in Chinese. This is because this project is done with Deloitte China.  
+**Note:** Part of the codes are written in Chinese. This is because this project is done with Deloitte China.  
